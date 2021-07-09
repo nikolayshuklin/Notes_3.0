@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/default_margin"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/alert_dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/simple_alert" />
+
+    <Button
+        android:id="@+id/list_dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/list" />
+
+    <Button
+        android:id="@+id/single_choice_dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/single_choice_dialog" />
+
+    <Button
+        android:id="@+id/multi_choice_dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/multu_choice_dialog" />
+
+    <Button
+        android:id="@+id/custom_view_dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/custom_view_dialog" />
+
+    <Button
+        android:id="@+id/alert_dialog_fragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/alert_dialog_fragment" />
+
+    <Button
+        android:id="@+id/dialog_fragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dialog_fragment" />
+
+</LinearLayout>
