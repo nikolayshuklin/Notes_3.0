@@ -1,3 +1,33 @@
 <resources>
-    <string name="app_name">Notes 3.0</string>
+    <string name="app_name">NotesAppJava</string>
+    <string name="action_notes">Notes</string>
+    <string name="action_info">Info</string>
+    <string name="notes_title">Notes</string>
+    <string name="action_add">Add</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_update">Update</string>
+    <string name="action_delete">Delete</string>
+    <string name="update_fragment">Fragment Update</string>
+    <string name="title_hint">Title</string>
+    <string name="action_done">Done</string>
+    <string name="simple_alert">Alert Dialog</string>
+    <string name="alert_dialog_title">Alert Dialog Title</string>
+    <string name="alert_dialog_message">Alert Dialog Message</string>
+    <string name="btn_positive">Positive</string>
+    <string name="btn_negative">Negative</string>
+    <string name="btn_neutral">Neutral</string>
+    <string name="list">List</string>
+    <string name="list_title">Select Something Here</string>
+
+    <string name="option_one">Option One</string>
+    <string name="option_two">Option Two</string>
+    <string name="option_three">Option Three</string>
+    <string name="option_four">Option Four</string>
+    <string name="single_choice_dialog">Single Choice</string>
+    <string name="select">Select</string>
+    <string name="multu_choice_dialog">Multi Choice</string>
+    <string name="custom_view_dialog">Custom View Dialog</string>
+    <string name="alert_dialog_fragment">Alert Dialog Fragment</string>
+    <string name="dialog_fragment">Dialog Fragment</string>
+
 </resources>
